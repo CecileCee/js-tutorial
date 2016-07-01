@@ -1,3 +1,5 @@
-# js-tutorial
-Functional Javascript Workshop
-# Functional Javascript Workshop  https://github.com/CecileCee/js-tutorial.git 
+# Functional Javascript Workshop
+
+Revoir les bases de Javascript pour une meilleure compréhension.
+
+( Workshop disponible [ici](https://github.com/timoxley/functional-javascript-workshop) )
